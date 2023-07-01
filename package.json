@@ -41,5 +41,6 @@
         "vue"
       ]
     }
-  }
+  },
+  "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7"
 }
